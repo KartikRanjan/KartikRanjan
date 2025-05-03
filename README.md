@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from Indi</h3>
+I'm a passionate **MERN Stack Developer** with over **3 years of experience** building scalable, secure, and user-focused full-stack web applications 🌐. I specialize in **MongoDB**, **Express.js**, **React**, and **Node.js**, with a strong focus on real-time features, API development, and performance optimization.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikranjan&label=Profile%20views&color=0e75b6&style=flat" alt="kartikranjan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikranjan" alt="kartikranjan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikranjan&show_icons=true&locale=en" alt="kartikranjan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikranjan&" alt="kartikranjan" /></p>
+
 
 
 ## Get in Touch 📬
