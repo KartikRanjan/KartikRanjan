@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">A passionate software developer from Indi</h3>
-I'm a passionate **MERN Stack Developer** with over **3 years of experience** building scalable, secure, and user-focused full-stack web applications 🌐. I specialize in **MongoDB**, **Express.js**, **React**, and **Node.js**, with a strong focus on real-time features, API development, and performance optimization.
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikranjan&label=Profile%20views&color=0e75b6&style=flat" alt="kartikranjan" /> </p>
 
