@@ -20,6 +20,7 @@ I'm a passionate **MERN Stack Developer** with over **3 years of experience** bu
 I’m always excited to collaborate on innovative projects or explore new opportunities. Feel free to:
 - ✉️ Email me at [kartikranjan.tech@gmail.com](mailto:kartikranjan.tech@gmail.com)
 - 📞 Call me at +91 7008978799
-- 🔗 Connect on [LinkedIn]*(https://www.linkedin.com/in/kartik-kumar-ranjan-2a7379171/)*
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/kartik-kumar-ranjan-2a7379171/)
+- 
 - 🛠️ Check out my repositories below for code samples and contributions!
 
